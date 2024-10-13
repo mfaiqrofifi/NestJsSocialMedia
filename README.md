@@ -20,7 +20,7 @@ src/
 ├── app.module.ts
 └── app.service.ts
 
-
+```
 
 ### Installation
 
