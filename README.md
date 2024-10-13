@@ -4,6 +4,7 @@ This project is a simple CRUD API built with NestJS and TypeORM, which demonstra
 
 ## Project Structure
 
+```plaintext
 src/
 ├── user/
 │   ├── user.controller.ts
